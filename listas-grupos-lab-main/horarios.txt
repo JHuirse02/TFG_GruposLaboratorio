@@ -1,0 +1,3 @@
+Electronica de Potencia-['A302/MA15', 'A302/MA17', 'A309/MA11', 'EE309/MA15', 'A309/MI11']
+Automatizacion-['A309/MA09', 'A309/MA11', 'EE309/MA11', 'A302/MI15', 'A302/MI17']
+Informatica Industrial-['A309/MA11', 'A302/MI15', 'A302/MI17', 'A309/VI11', 'EE309/VI11']

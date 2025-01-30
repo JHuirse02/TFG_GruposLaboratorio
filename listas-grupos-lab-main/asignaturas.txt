@@ -1,0 +1,2 @@
+Electronica de Potencia-27-6-['A302/MA15', 'EE309/MA15', 'A302/MA17', 'A309/MA11', 'A309/MI11']-2-3
+Informatica Industrial-27-6-['A309/MA11', 'A302/MI15', 'A302/MI17', 'A309/VI11', 'EE309/VI11']-2-3
